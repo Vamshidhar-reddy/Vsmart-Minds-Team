@@ -153,9 +153,8 @@ class _MyAppState extends State<MyApp> {
                             children: [
                               Padding(
                                 padding: const EdgeInsets.all(12.0),
-                                child: Image(
-                                    image: NetworkImage(
-                                        'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhnmdN8oVjYePEfcOrImGGI5H850CUxHxXHQ&usqp=CAU')),
+                                child:
+                                    Image(image: AssetImage('assets/1.jpeg')),
                               ),
                               Column(
                                 children: [
@@ -204,9 +203,8 @@ class _MyAppState extends State<MyApp> {
                             children: [
                               Padding(
                                 padding: const EdgeInsets.all(12.0),
-                                child: Image(
-                                    image: NetworkImage(
-                                        'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROta9N7CAhdPoKuHvgFSVvAJldf92QWUFTJxzgX-d9gy89UG924-8YHs6-F8RGu9dL8rrSguM&usqp=CAc')),
+                                child:
+                                    Image(image: AssetImage('assets/2.jpeg')),
                               ),
                               Column(
                                 children: [
@@ -262,9 +260,8 @@ class _MyAppState extends State<MyApp> {
                             children: [
                               Padding(
                                 padding: const EdgeInsets.all(12.0),
-                                child: Image(
-                                    image: NetworkImage(
-                                        'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRz3M0urXYYifeGMvtpy1M_8MMr5ngOgp2cKA&usqp=CAU')),
+                                child:
+                                    Image(image: AssetImage('assets/3.jpeg')),
                               ),
                               Column(
                                 children: [
@@ -313,9 +310,8 @@ class _MyAppState extends State<MyApp> {
                             children: [
                               Padding(
                                 padding: const EdgeInsets.all(12.0),
-                                child: Image(
-                                    image: NetworkImage(
-                                        'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRaT9AyyAjn7dw04opUeJrxpg0QmgNMsv-BA&usqp=CAU')),
+                                child:
+                                    Image(image: AssetImage('assets/4.jpeg')),
                               ),
                               Column(
                                 children: [

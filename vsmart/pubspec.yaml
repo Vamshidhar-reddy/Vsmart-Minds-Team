@@ -51,8 +51,10 @@ flutter:
     - assets/pay_bills.jpg
     - assets/send_money.jpg
     - assets/upi_qr.jpg
-
-
+    - assets/1.jpeg
+    - assets/2.jpeg
+    - assets/3.jpeg
+    - assets/4.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
